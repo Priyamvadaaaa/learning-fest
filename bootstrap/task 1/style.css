@@ -1,0 +1,13 @@
+.row{
+    color: white;
+    margin: 30px;
+}
+#first{
+    background-color:rgb(18, 185, 190);
+}
+#second{
+    background-color: red;
+}
+#third{
+    background-color: lawngreen;
+}
